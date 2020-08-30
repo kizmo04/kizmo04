@@ -1,8 +1,10 @@
+ <link href="./index.css" rel="stylesheet"></link>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkizmo04&count_bg=%2360C9E7&title_bg=%23424B58&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div>
+<div class="row">
   <img height="195px" src="https://media.giphy.com/media/xJV6h7glCnoFG/giphy.gif" />
   <div>
     <a alt="Anurag's github stats" href="https://github.com/anuraghazra/github-readme-stats">
