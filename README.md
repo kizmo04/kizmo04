@@ -3,11 +3,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div align="center">
-  <img height="195px" align="left" src="https://media.giphy.com/media/xJV6h7glCnoFG/giphy.gif" />
+  <img width="12%" align="left" src="https://media.giphy.com/media/xJV6h7glCnoFG/giphy.gif" />
   <a alt="Anurag's github stats" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kizmo04&theme=vue" />
+    <img width="54%" src="https://github-readme-stats.vercel.app/api?username=kizmo04&theme=vue" />
   </a>
-  <img height="195px" align="right" src="https://media.giphy.com/media/77mVbGZNfZSoM/giphy.gif" />
+  <img width="28%" align="right" src="https://media.giphy.com/media/77mVbGZNfZSoM/giphy.gif" />
 </div>
 
 <!--
