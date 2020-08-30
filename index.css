@@ -1,0 +1,8 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  border-radius: 4px;
+}
