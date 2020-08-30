@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kizmo04)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kizmo04/kizmo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
